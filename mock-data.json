@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "fullName": "Siddu hiremath",
+      "address": "road no3, belagavi",
+      "phoneNumber": "1234567890",
+      "email": "siddu@test.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Aanand godbole",
+      "address": "road no 12, bidar",
+      "phoneNumber": "4987654321",
+      "email": "aanand@test.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Santhosh sirse",
+      "address": "road no 14, hubballi",
+      "phoneNumber": "7835461944",
+      "email": "santhosh@test.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Sangamesh sirse",
+      "address": "road no 67, chikka ballapura",
+      "phoneNumber": "1196211133",
+      "email": "sangamesh@test.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Honesh kumar",
+      "address": "road no 56, pakisthan",
+      "phoneNumber": "4204204204",
+      "email": "honesh@test.com"
+    },
+    {
+      "id": 6,
+      "fullName": "Abhigya Anand",
+      "address": "road no 63, burudepura",
+      "phoneNumber": "1431431431",
+      "email": "abhigya@test.com"
+    }
+  ]
